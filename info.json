@@ -1,0 +1,20 @@
+{
+		"client": "Google",
+		"host": "192.168.33.11",
+		"port": 27021,		
+		"usr": "admin",	
+		"pwd": "admin@1234",
+		"backup_type": "bson",
+		"feildnames" : "",	
+		"db" : "all",
+		"collection" : "",
+		"compression" : "y",
+		"backup_path" : "default",
+		"retention" : 7,
+		"copy_into_remote_server" : "y",
+		"remote_copy_method" : "rsync",
+		"remote_user" : "ratnesh",
+		"remote_host" : "192.168.33.1",
+		"remote_path" : "/usrdir/ratnesh/backup_data"
+
+}
